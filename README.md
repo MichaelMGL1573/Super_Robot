@@ -13,4 +13,3 @@
   2. 增加机器人攻击性： 通过给机器人增加一定的攻击性技能， 实现机器人对抗。
 
   
-![f43b20ebab42a1a4942a121ffca3dba](https://github.com/MichaelMGL1573/Super_Robot/assets/153053425/f3ff0c53-20ff-4799-81a6-ea3dd4900a98)
