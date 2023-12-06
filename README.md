@@ -14,4 +14,5 @@
 
   
 欢迎加入Super Robot讨论群：
-![Super Robot WeChat](https://github.com/MichaelMGL1573/Super_Robot/assets/153053425/2770e2b1-ee3a-4991-abd7-d96e2c2ce680)
+
+![Super Robot WeChat](https://github.com/MichaelMGL1573/Super_Robot/assets/153053425/c58c5169-5559-479c-ba93-e215138dca92)
